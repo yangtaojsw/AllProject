@@ -1,0 +1,11 @@
+D:\Project\ProC#\Aoivw\bin\Debug\Aoivw.exe.config
+D:\Project\ProC#\Aoivw\bin\Debug\Aoivw.exe
+D:\Project\ProC#\Aoivw\bin\Debug\Aoivw.pdb
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.csprojAssemblyReference.cache
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.Aoivw.resources
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.Properties.Resources.resources
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.csproj.GenerateResource.cache
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.csproj.CoreCompileInputs.cache
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.exe
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.pdb
+D:\Project\ProC#\Aoivw\obj\Debug\Aoivw.HelpAbout.resources
